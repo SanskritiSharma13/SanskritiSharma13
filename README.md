@@ -10,8 +10,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sanskritisharma13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanskritisharma13" height="30" width="40" /></a>
-  <a href="https://instagram.com/sanskriti.sharma.13" target="blank"><img align="center" src="![image](https://github.com/SanskritiSharma13/SanskritiSharma13/assets/146421403/9f8df6ef-b560-40ce-81d3-2c8f8d24f884)
-" alt="sanskriti.sharma.13" height="30" width="40" /></a>
 <a href="https://instagram.com/sanskriti.sharma.13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sanskriti.sharma.13" height="30" width="40" /></a>
 </p>
 
